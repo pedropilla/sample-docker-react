@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          TESTING <code>123 </code> and save to reload.
+          CHANGED! TESTING <code>123 </code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          feature branch
+          Learn React
         </a>
       </header>
     </div>
